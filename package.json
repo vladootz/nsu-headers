@@ -1,0 +1,25 @@
+{
+  "name": "nsu-headers",
+  "version": "1.0.0",
+  "description": "Set headers for security and other purposes",
+  "main": "",
+  "scripts": {
+    "build": "node node_modules/grunt/bin/grunt build"
+  },
+  "keywords": [
+    "wordpress",
+    "wp",
+    "plugin",
+    "nsu-headers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladootz/nsu-headers.git"
+  },
+  "author": "nsu.ro",
+  "license": "GPL-2.0+",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-wp-i18n": "^1.0.3"
+  }
+}
